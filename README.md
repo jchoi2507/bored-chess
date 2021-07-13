@@ -1,2 +1,2 @@
-# bored-chess
+# chess
 incomplete
